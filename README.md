@@ -1,2 +1,2 @@
-# www - My personal Website
+# www: my personal website
 
